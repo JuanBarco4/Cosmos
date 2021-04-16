@@ -1,0 +1,43 @@
+.encabezado{
+    background-color: white;
+}
+
+body{
+  background-color: #03384a;  
+}
+
+section{
+    width: 1100px;
+    margin: auto;
+}
+
+.titulo_4{
+    color: white;
+    text-align: center;
+    font-size: 50px;
+    margin-top: 95px;
+}
+
+.luna{
+    display: flex;
+    flex-direction: row;
+    justify-content:center;
+    margin-top: 20px;
+}
+
+.luna div{
+    width: 100px;
+    height: 100px;
+    margin: 10px 10px 10px 10px;
+    border: 1px solid white;
+    border-radius: 5px;
+    margin-top: 50px;
+}
+
+.luna div:hover{
+    background-color: cadetblue;
+}
+
+img{
+    width: 100px;
+}

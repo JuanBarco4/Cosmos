@@ -1,0 +1,56 @@
+section{
+    width: 1100px;
+    margin: auto;
+}
+
+.titulo_2{
+    color: #4A4242;
+    text-align: center;
+    font-size: 50px;
+    margin-top: 95px;
+}
+
+.planetas_1{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    margin-top: 40px;
+}
+
+.planetas_1 div{
+    width: 200px;
+    height: 200px;
+    margin: 10px 10px 10px 10px;
+    border: 1px solid #4A4242;
+    border-radius: 5px;
+    transition: 0.3s;
+}
+
+.planetas_1 div:hover{
+    background-color:  slategrey; 
+}
+
+.planetas_2{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    margin-top: 20px;
+}
+
+.planetas_2 div{
+    width: 200px;
+    height: 200px;
+    margin: 10px 10px 10px 10px;
+    border: 1px solid #4A4242;
+    border-radius: 5px;
+    transition: 0.3s;
+}
+
+.planetas_2 div:hover{
+    background-color:  slategrey;
+    transition: 0.3s;
+}
+
+img{
+    width: 200px;
+}

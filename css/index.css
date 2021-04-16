@@ -1,0 +1,80 @@
+section{
+    width: 1100px;
+    margin: auto;
+}
+
+.nombre{
+    color: #4A4242;
+    text-align: center;
+    font-size: 50px;
+    margin-top: 95px;
+}
+
+.botones{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    width: 720px;
+    margin-top: 125px
+}
+
+.btn_1{
+    color: white;
+    display: block;
+    text-align: center;
+    text-decoration: none;
+    background-color: #FC4A12;
+    padding: 10px 30px 10px 30px;
+    font-size: 30px;
+    border-radius: 3px;
+    width: 120px;
+    transition: 0.5s;
+}
+
+.btn_1:hover{
+    background-color: slategrey;
+    color: black;
+    width: 125px;
+}
+
+.btn_2{
+    color: white;
+    display: block;
+    text-align: center;
+    text-decoration: none;
+    background-color: #E06110;
+    padding: 10px 30px 10px 30px;
+    font-size: 30px;
+    border-radius: 3px;
+    width: 120px;
+    transition: 0.5s;
+}
+
+.btn_2:hover{
+    background-color: slategrey;
+    color: black;
+    width: 125px;
+}
+
+
+.btn_3{
+    color: white;
+     display: block;
+    text-align: center;
+    text-decoration: none;
+    background-color: #F8931F;
+    padding: 10px 30px 10px 30px;
+    font-size: 30px;
+    border-radius: 3px;
+    width: 120px;
+    transition: 0.5s;
+}
+
+.btn_3:hover{
+    background-color: slategrey;
+    color: black;
+    width: 125px;
+}
+
+
+
