@@ -13,6 +13,7 @@ header{
     text-align: center;
     display: block;
     width: 25px;
+    padding: 4px 8px 4px 8px;
     color: #E06110;
     text-decoration: none;
     border: 1px solid #4A4242;
@@ -26,5 +27,5 @@ header{
 
 .g{
     width: 25px;
-    height: 15px;
+    height: 25px;
 }
