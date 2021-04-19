@@ -12,7 +12,7 @@ header{
 .flecha{
     text-align: center;
     display: block;
-    width: 25px;
+    width: 35px;
     padding: 2px 6px 2px 6px;
     color: #E06110;
     text-decoration: none;
@@ -22,7 +22,7 @@ header{
 }
 
 .flecha:hover{
-   width: 30px;
+   width: 40px;
    transition: 0.3s;
 }
 
